@@ -3,3 +3,6 @@ hello world ...java ..i am GitHub user lovline...
 public static void main(){
 	private lovline;
 }
+
+
+i want to push it..and test...
